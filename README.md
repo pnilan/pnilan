@@ -1,10 +1,10 @@
 ### Heyo 👋
 
-I am a full-stack engineer with a focus in backend optimization. I love the process of optimizing code for faster speed and improved organization/readability. 
+I am a full-stack engineer. I have an interest in optimization. I love the process of optimizing code for speed and improved organization and readability.
 
-While in my previous career as a Civil Engineer, I effectively managed multiple simultaneous projects and stakeholders while innovating new strategies to reduce costs and to meet project requirements. Through my analysis into each project’s costs, I honed my ability to identify areas for optimization and improvement.
+While previously working as a Civil Engineer, I managed multiple simultaneous projects and stakeholders while innovating new strategies to reduce costs and to meet project requirements. Through my analysis of each project’s costs, I improved my ability to identify areas for optimization and improvement.
 
-My proficiency in finding and optimizing inefficiencies directly translates into my ability as a software engineer. Through the projects I’ve worked on, I showcased my ability to build full-stack applications that demanded efficient and reliable solutions. I optimized my code to ensure speed and reliability, even under high loads.
+My ability in finding and optimizing inefficiencies directly translates into my ability as a software engineer. Through projects I’ve worked on, I showcased my ability to build full-stack applications that demanded efficient and reliable solutions. I optimized my code to ensure speed and reliability, even under high loads.
 
 By combining my background in civil engineering and my passion for software engineering, I bring a unique perspective to problem solving and a commitment to efficiency.
 
