@@ -8,7 +8,7 @@ My ability in finding and optimizing inefficiencies directly translates into my 
 
 By combining my background in civil engineering and my passion for software engineering, I bring a unique perspective to problem solving and a commitment to efficiency.
 
-Interested in chatting? Message me here or on [LinkedIn](https://linkedin.com/in/patricknilan).
+Interested in chatting? Message me on [LinkedIn](https://linkedin.com/in/patricknilan).
 
 ## Favorite Technologies
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
